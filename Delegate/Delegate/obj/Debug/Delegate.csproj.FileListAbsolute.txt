@@ -1,0 +1,7 @@
+C:\HG Kim\SoftwareDevelopment\GitPushes\Delegate and Interface\Delegate\Delegate\bin\Debug\Delegate.exe.config
+C:\HG Kim\SoftwareDevelopment\GitPushes\Delegate and Interface\Delegate\Delegate\bin\Debug\Delegate.exe
+C:\HG Kim\SoftwareDevelopment\GitPushes\Delegate and Interface\Delegate\Delegate\bin\Debug\Delegate.pdb
+C:\HG Kim\SoftwareDevelopment\GitPushes\Delegate and Interface\Delegate\Delegate\obj\Debug\Delegate.csprojAssemblyReference.cache
+C:\HG Kim\SoftwareDevelopment\GitPushes\Delegate and Interface\Delegate\Delegate\obj\Debug\Delegate.csproj.CoreCompileInputs.cache
+C:\HG Kim\SoftwareDevelopment\GitPushes\Delegate and Interface\Delegate\Delegate\obj\Debug\Delegate.exe
+C:\HG Kim\SoftwareDevelopment\GitPushes\Delegate and Interface\Delegate\Delegate\obj\Debug\Delegate.pdb
